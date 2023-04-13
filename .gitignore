@@ -2,3 +2,7 @@
 .idea
 package.json
 *.iml
+
+# node
+node_modules/
+
