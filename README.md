@@ -12,7 +12,7 @@ This project serves as the digital home for Jimmie Maggard's professional resume
 - **Styling:** [Sass (SCSS)](https://sass-lang.com/)
 - **Icons:** [Font Awesome](https://fontawesome.com/)
 - **Fonts:** [Google Fonts (Montserrat & Open Sans)](https://fonts.google.com/)
-- **Deployment:** GitHub Actions & AWS S3
+- **Deployment:** AWS Amplify
 
 ## 📦 Getting Started
 
@@ -59,8 +59,8 @@ The output will be in the `dist/` directory.
 
 ## 🚢 Deployment
 
-The project is automatically deployed to an AWS S3 bucket via GitHub Actions whenever changes are pushed to the `main` branch. See `.github/workflows/workflow.yml` for details.
+The project is automatically deployed via AWS Amplify.
 
 ## 📄 License
 
-This project is licensed under the [LICENSE](LICENSE) file.
+This project is licensed under the [MIT LICENSE](LICENSE) file.
